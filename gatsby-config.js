@@ -7,8 +7,11 @@ module.exports = {
         rootNote: `/hello`,
       },
     },
+    
   ],
   siteMetadata: {
-    title: `Site title`,
+    title: `Leilei Xia's Mind`,
+    author: 'Leilei Xia',
+    description: "Leilei's Blog and all kinds of stuff"
   },
 }
