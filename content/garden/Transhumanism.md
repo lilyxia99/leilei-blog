@@ -13,6 +13,8 @@ Hall, Melinda Gann. *The Bioethics of Enhancement: Transhumanism, Disability, an
 
 死亡并非我们身外之物，死亡一直存在的。我们身上总有无数的细胞死亡，只是我们以为我们活着。实际上每天的自己都死去了，新的自己又诞生了。人的意义不应只在于它能从知识生产或者劳动生产上贡献什么。一个人活着本身就是一种意义。把活着的意义和知识等同起来是危险而有偏颇的
 
+
+
 # Uncatagorized notes
 
 ## Annotations (12/31/2023, 11:07:37 AM)
