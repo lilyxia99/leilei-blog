@@ -1,0 +1,6 @@
+{
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+
+    "workbench.editor.enablePreview": false,
+
+}
