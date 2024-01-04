@@ -16,3 +16,7 @@ I am Leilei, and I am an tactile artist and filmmaker. This is my blog, reading 
 ### Sci-fi, technology, digital humanity
 
 [[Transhumanism]]
+
+## Reference
+
+[disability studies](reference-name/disability-studies-scholar.md)
