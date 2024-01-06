@@ -1,4 +1,0 @@
----
-title: "disability studies scholar"
----
-

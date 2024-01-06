@@ -1,13 +1,14 @@
 ---
 title: "Hannah Levy"
-tags: 
+tags:
     - transhumanism
     - sci-fi
     - posthuman
 ---
-# Artist
 
-[Hannah Levy](https://www.hannahslevy.com)
+# Hannah Levy
 
-# Related
+[Hannah Levy's website](https://www.hannahslevy.com)
+
+## Related Artist
 

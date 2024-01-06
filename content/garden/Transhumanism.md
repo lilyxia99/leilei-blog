@@ -7,13 +7,13 @@ tags:
 
 Hall, Melinda Gann. *The Bioethics of Enhancement: Transhumanism, Disability, and Biopolitics*. Lexington Books, 2017.
 
-# What is Death?
+# Transhumanism
 
 在Bostrom的人看来，死亡就是恶龙。人们麻木于恶龙，而不寄希望于打倒他。对于Bostrom来说，死亡是外部的，是邪恶的。这里涉及的核心问题就是：死亡是否是我们的一部分？接受死亡的话语是人类自我安慰的麻痹剂，还是一种真正的自我和解？transhumanist 会说，一个人的死亡就是图书馆的消失，所以我们应该消灭死亡。但作者认为这样的话反过来说就不成立：这不就意味着没有对世界的知识作出贡献的人，例如智力并非超群这，甚至是有智力障的人，就死不足惜了？越是想要用功利主义证明死亡是邪恶的，越是落入功利主义的陷阱。
 
 死亡并非我们身外之物，死亡一直存在的。我们身上总有无数的细胞死亡，只是我们以为我们活着。实际上每天的自己都死去了，新的自己又诞生了。人的意义不应只在于它能从知识生产或者劳动生产上贡献什么。一个人活着本身就是一种意义。把活着的意义和知识等同起来是危险而有偏颇的
 
-# Uncatagorized notes
+## Uncatagorized notes
 
 ## Annotations (12/31/2023, 11:07:37 AM)
 
