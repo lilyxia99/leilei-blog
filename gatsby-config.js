@@ -3,9 +3,13 @@ module.exports = {
     {
       resolve: `gatsby-philipps-foam-theme`,
       options: {
-        rootNote: `/hello`,
         contentPath: `${__dirname}/content/garden`,
+        rootNote: `/hello`,
+        ignore:[
+          "**/private/**",
+        ]
       },
+      
     },
     
   ],

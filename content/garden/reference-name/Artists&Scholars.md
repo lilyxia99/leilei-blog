@@ -3,7 +3,7 @@ title: "Names"
 catagories: "reference"
 ---
 
-# Names
+# Artists/Scholars References
 
 ## Artist
 + [[Hannah-Levy]]
