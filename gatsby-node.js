@@ -1,3 +1,0 @@
-exports.onPreBuild = () => {
-    require('./generatePostList');
-  };

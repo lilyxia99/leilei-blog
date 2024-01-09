@@ -2,6 +2,8 @@
     "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
 
     "workbench.editor.enablePreview": false,
+    "foam.files.newNotePath": "currentDir",
+    "foam.openDailyNote.directory": "content/garden/Diary",
 
     
 
