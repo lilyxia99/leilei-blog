@@ -1,10 +1,10 @@
 module.exports = {
   plugins: [
     {
-      resolve: `gatsby-theme-garden`,
+      resolve: `gatsby-philipps-foam-theme`,
       options: {
-        contentPath: `${__dirname}/content/garden`,
         rootNote: `/hello`,
+        contentPath: `${__dirname}/content/garden`,
       },
     },
     

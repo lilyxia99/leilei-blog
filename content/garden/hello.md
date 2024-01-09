@@ -7,16 +7,16 @@ title: "Index"
 
 # Hello!
 
-I am Leilei, and I am an tactile artist and filmmaker. This is my blog, reading notes and zettlekasten, and if you are interested in my artworks, you can visit [my website](www.leileixia.com)
+I am Leilei, and I am an tactile artist and filmmaker. This is my blog, reading notes and zettlekasten, and if you are interested in my artworks, you can visit [my website](https://www.leileixia.com)
 
-# Index
+## Index
 
-## Reading Notes
+### Reading Notes
 
-### Sci-fi, technology, digital humanity
+#### Sci-fi, technology, digital humanity
 
 [[Transhumanism]]
 
-## Reference
+### Reference
 
 [[Names]]

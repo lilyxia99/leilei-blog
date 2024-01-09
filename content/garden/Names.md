@@ -1,5 +1,6 @@
 ---
 title: "Names"
+catagories: "reference"
 ---
 
 # Names
