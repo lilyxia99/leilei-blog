@@ -1,7 +1,19 @@
 .file_node{
-    height: 50px;
+
+}
+
+.link_node{
+
+}
+
+.text_node{
+
+}
+
+.node{
+    height: 100%;
     border: 1px solid #eee;
-    padding: 5px;
+    padding: 10px;
     border-radius: 5px;
     background: pink;
 }

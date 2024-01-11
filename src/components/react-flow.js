@@ -1,6 +1,7 @@
 import React from 'react';
 import { useState, useCallback } from 'react';
-import ReactFlow, {
+import ReactFlow, { addEdge, SelectionMode, useEdgesState, useNodesState } from 'reactflow';
+import {
   Controls,
   Background,
   applyNodeChanges,
@@ -14,23 +15,42 @@ import FileNode from '../flow/fileNode.js';
 
 import '../css/custom-Node.css'
 
+const nodeTypes = {
+  link: LinkNode,
+  text: TextNode,
+  file:FileNode,
+};
+
+
 const ArtistMapPage = ({ nodes, edges }) => {
 
-    console.log("nodes",nodes);
+    const [changeNodes, setNodes] = useNodesState(nodes);
+    const [changeEdges, setEdges, onEdgesChange] = useEdgesState(edges);
 
-    const nodeTypes = {
-        link: LinkNode,
-        text: TextNode,
-        file:FileNode,
-    };
+  const onConnect = useCallback(
+    (connection) => setEdges((eds) => addEdge(connection, eds)),
+    [setEdges]
+  );
+
+  const onNodesChange = useCallback(
+    (changes) => setNodes((nds) => applyNodeChanges(changes, nds)),
+    [setNodes]
+  );
+
+    console.log("nodes",changeNodes);
   
   return (
     <div style={{ height: '100vh', width: '100vw' }}>
       <ReactFlow
         nodeTypes = {nodeTypes}
-        nodes={nodes}
-        edges={edges}
+        nodes={changeNodes}
+        edges={changeEdges}
+        onNodesChange={onNodesChange}
+        onEdgesChange={onEdgesChange}
+        onConnect={onConnect}
         fitView
+        selectionOnDrag
+        connectionMode="loose"
       >
         <Background />
         <Controls />

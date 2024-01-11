@@ -1,8 +1,12 @@
 {
 	"nodes":[
-		{"id":"49f74ba06ce5dbb8","x":120,"y":-150,"width":250,"height":60,"type":"text","text":"testing"},
-		{"id":"68d5dc5ead4a7d7b","x":-520,"y":-380,"width":400,"height":400,"type":"file","file":"artists/sculpture/Hannah-Levy.md"},
-		{"id":"4831295c363cb130","x":-400,"y":200,"width":400,"height":400,"type":"link","url":"https://www.leileixia.online"}
+		{"id":"49f74ba06ce5dbb8","type":"text","text":"testing","x":120,"y":-150,"width":250,"height":60},
+		{"id":"4831295c363cb130","type":"link","url":"https://www.leileixia.online","x":-660,"y":280,"width":400,"height":420},
+		{"id":"68d5dc5ead4a7d7b","type":"file","file":"artists/sculpture/Hannah-Levy.md","x":-720,"y":-350,"width":400,"height":400,"color":"#652f2f"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"1fe369f2779e5883","fromNode":"68d5dc5ead4a7d7b","fromSide":"bottom","toNode":"4831295c363cb130","toSide":"top"},
+		{"id":"597d99e53d159463","fromNode":"68d5dc5ead4a7d7b","fromSide":"right","toNode":"49f74ba06ce5dbb8","toSide":"left"},
+		{"id":"ce1bdd7cc6206ef8","fromNode":"4831295c363cb130","fromSide":"right","toNode":"49f74ba06ce5dbb8","toSide":"bottom"}
+	]
 }

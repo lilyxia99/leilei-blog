@@ -14,5 +14,8 @@ Thursday, January 11, 2024 @ 11:39:42 AM
 
 好处是，现在搞清楚了template 和 component之间的关系，以及他们是怎么互相交流的。主要就是src里的文件无法直接access content里的文件，必须通过gatsby-node 才可以获得信息。信息流就是gatsby-node --> template --> component
 
+最后是通过一些浑水摸鱼的技巧实现的，其实就是把网址的规律给搞出来。毕竟我这个theme是一个很奇怪的theme
+
 todo:
-- [ ]   创建一个可以显示其他 md 页面的custom node
+- [x]   创建一个可以显示其他 md 页面的custom node
+- [x]   看看如何把每个页面的网址确定下来，这样就可以显示那个md网页了

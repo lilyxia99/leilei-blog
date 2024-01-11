@@ -23,14 +23,11 @@
             "id": "358139341c13846c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Artist-Map.canvas",
-                "viewState": {
-                  "x": -58.79804298449005,
-                  "y": 63.876175751694944,
-                  "zoom": -0.4937016992767654
-                }
+                "file": "tech-note/Gatsby-blog-Log.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -101,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artist-Map.canvas",
+                "file": "tech-note/Gatsby-blog-Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artist-Map.canvas",
+                "file": "tech-note/Gatsby-blog-Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artist-Map.canvas"
+                "file": "tech-note/Gatsby-blog-Log.md"
               }
             }
           }
@@ -164,12 +161,13 @@
   },
   "active": "358139341c13846c",
   "lastOpenFiles": [
+    "reading-notes/Transhumanism.md",
+    "Artist-Map.canvas",
     "Diary/Diary-list",
     "tech-note/Gatsby-blog-Log.md",
     "tech-note/React.md",
     "tech-note",
     "hello.md",
-    "Artist-Map.canvas",
     "artist-map.canvas",
     "Artist Map.canvas",
     "Diary/🥗.md",
@@ -177,7 +175,6 @@
     "Diary/2024-01-10.md",
     "Diary/2024-01-09.md",
     "random-thoughts/about-writing-in-Chinese.md",
-    "reading-notes/Transhumanism.md",
     "reference-name/wanting-to-watch.md",
     "reference-name/Artists&Scholars.md",
     "receipe/小高姐.md",

@@ -13,23 +13,37 @@ exports.createPages = async function ({ actions }) {
     const reformattedNodes = nodes.map(node => {
         // Initialize the new node structure
         const newNode = {
-        id: node.id,
-        type: node.type,
-        position: { x: node.x, y: node.y }, // Set the position with x and y
-        data: {}
-        };
+            id: node.id,
+            type: node.type,
+            position: { x: node.x, y: node.y }, // Set the position with x and y
+            data: {
+                color:node.color,
+            },
+            };
 
-        // Check the type of the node and reformat accordingly
-        if (node.type === 'text') {
-        newNode.data.label = node.text; // Change 'text' to 'label' in data
-        } else if (node.type === 'link') {
-        newNode.data.url = node.url; // Change 'url' to be inside data
-        }else if(node.type==='file'){
-          newNode.data.file = node.file;
-        }
+            // Check the type of the node and reformat accordingly
+            if (node.type === 'text') {
+            newNode.data.label = node.text; // Change 'text' to 'label' in data
+            } else if (node.type === 'link') {
+            newNode.data.url = node.url; // Change 'url' to be inside data
+            }else if(node.type==='file'){
+            newNode.data.file = node.file;
+            }
 
         return newNode;
     });
+
+    const reformattedEdges = edges.map(edge=>{
+        const newEdge ={
+            id : edge.id,
+            source:edge.fromNode,
+            target:edge.toNode,
+            sourceHandle:edge.fromSide,
+            targetHandle:edge.toSide,
+            
+        }
+        return newEdge
+    })
 
     // Create a single page for the React Flow diagram
     createPage({
@@ -38,7 +52,7 @@ exports.createPages = async function ({ actions }) {
     context: {
         // Data passed to the context is available in page queries
         nodes:reformattedNodes,
-        edges,
+        edges:reformattedEdges,
     },
     });
 };
