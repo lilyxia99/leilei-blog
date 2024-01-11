@@ -29,12 +29,12 @@ function FileNode({data,isConnectable}){
       };
     
     const nodeStyle={
-        background:data.color,
+        backgroundColor:data.color,
     }
 
     return(
         <>
-        <div className="file_node node" >
+        <div className="file_node node" style={nodeStyle}>
 
         <Handle type="target" position={Position.Top} id="top" isConnectable={isConnectable} />
         <Handle type="target" position={Position.Left} id="left" isConnectable={isConnectable} />

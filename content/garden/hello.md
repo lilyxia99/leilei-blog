@@ -11,6 +11,8 @@ I am Leilei, and I am an tactile artist and filmmaker. This is my blog, reading 
 
 You can find the index on the side bar
 
+[my artist map, mostly visual arts](https://www.leileixia.online/artist-map)
+
 [My reading notes (to Notion Page)](https://leileixia.notion.site/9894276f85b544139940a94237d31b7b?v=ad681b862b034f96b026a93204b1d508&pvs=4) 
 
 

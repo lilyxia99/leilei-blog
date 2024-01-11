@@ -37,7 +37,7 @@ const ArtistMapPage = ({ nodes, edges }) => {
     [setNodes]
   );
 
-    console.log("nodes",changeNodes);
+    //console.log("nodes",changeNodes);
   
   return (
     <div style={{ height: '100vh', width: '100vw' }}>

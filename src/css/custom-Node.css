@@ -1,13 +1,13 @@
 .file_node{
-
+    background-color: lightsalmon;
 }
 
 .link_node{
-
+    background-color: aquamarine;
 }
 
 .text_node{
-
+    background-color: lightskyblue;
 }
 
 .node{
@@ -15,5 +15,5 @@
     border: 1px solid #eee;
     padding: 10px;
     border-radius: 5px;
-    background: pink;
+
 }
