@@ -7,3 +7,6 @@ Thursday, January 11, 2024 @ 11:39:42 AM
 换一个思路其实不一定要react flow。我的需求其实就是我能够把这些艺术家连起来，实际上react flow可能还并不太合适。或许我需要的是修改现有的theme，让它能够有更多的tag显示以及color code.
 
 好处是，现在搞清楚了template 和 component之间的关系，以及他们是怎么互相交流的。主要就是src里的文件无法直接access content里的文件，必须通过gatsby-node 才可以获得信息。信息流就是gatsby-node --> template --> component
+
+todo:
+- [ ]   创建一个可以显示其他 md 页面的custom node

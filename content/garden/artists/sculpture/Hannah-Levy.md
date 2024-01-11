@@ -4,6 +4,7 @@ tags:
     - transhumanism
     - sci-fi
     - posthuman
+slug: "/artists/Hannah-Levy/"
 ---
 
 # Hannah Levy
