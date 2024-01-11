@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "artists/sculpture/Hannah-Levy.md",
+                "file": "Artist-Map.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "artists/sculpture/Hannah-Levy.md",
+                "file": "Artist-Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "artists/sculpture/Hannah-Levy.md"
+                "file": "Artist-Map.canvas"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "358139341c13846c",
   "lastOpenFiles": [
+    "Diary/Diary-list",
     "tech-note/Gatsby-blog-Log.md",
     "tech-note/React.md",
     "tech-note",

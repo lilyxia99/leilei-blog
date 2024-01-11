@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"49f74ba06ce5dbb8","x":120,"y":-150,"width":250,"height":60,"type":"text","text":"testing"},
-		{"id":"68d5dc5ead4a7d7b","x":-520,"y":-380,"width":400,"height":400,"type":"file","file":"artists/sculpture/Hannah-Levy.md"}
+		{"id":"68d5dc5ead4a7d7b","x":-520,"y":-380,"width":400,"height":400,"type":"file","file":"artists/sculpture/Hannah-Levy.md"},
+		{"id":"4831295c363cb130","x":-400,"y":200,"width":400,"height":400,"type":"link","url":"https://www.leileixia.online"}
 	],
 	"edges":[]
 }

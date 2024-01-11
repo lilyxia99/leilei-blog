@@ -4,6 +4,7 @@
     "workbench.editor.enablePreview": true,
     "foam.files.newNotePath": "currentDir",
     "foam.openDailyNote.directory": "content/garden/Diary",
+    "editor.defaultFormatter": null,
 
     
 

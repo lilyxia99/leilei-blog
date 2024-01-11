@@ -1,3 +1,9 @@
+---
+title: "搭建gatsby 博客"
+tags: 
+    - tech-notes
+---
+
 # 搭建gatsby 博客
 
 Thursday, January 11, 2024 @ 11:39:42 AM

@@ -5,7 +5,7 @@ function LinkNode({data}){
     return(
         <>
         <div className="link_node">
-        <a href={data.url}>Click here</a>
+        <iframe src={data.url} height="400px" width="600px" allowFullScreen></iframe>
         </div>
         </>
     )
