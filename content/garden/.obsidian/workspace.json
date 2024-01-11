@@ -27,9 +27,9 @@
               "state": {
                 "file": "Artist-Map.canvas",
                 "viewState": {
-                  "x": 88.01193814788132,
-                  "y": 38.820594505862076,
-                  "zoom": -0.8290543580055237
+                  "x": -58.79804298449005,
+                  "y": 63.876175751694944,
+                  "zoom": -0.4937016992767654
                 }
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artist-Map.canvas",
+                "file": "artists/sculpture/Hannah-Levy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artist-Map.canvas",
+                "file": "artists/sculpture/Hannah-Levy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artist-Map.canvas"
+                "file": "artists/sculpture/Hannah-Levy.md"
               }
             }
           }

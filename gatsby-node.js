@@ -24,6 +24,8 @@ exports.createPages = async function ({ actions }) {
         newNode.data.label = node.text; // Change 'text' to 'label' in data
         } else if (node.type === 'link') {
         newNode.data.url = node.url; // Change 'url' to be inside data
+        }else if(node.type==='file'){
+          newNode.data.file = node.file;
         }
 
         return newNode;

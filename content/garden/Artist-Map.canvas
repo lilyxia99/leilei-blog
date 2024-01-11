@@ -1,9 +1,7 @@
 {
 	"nodes":[
-		{"id":"c75bde8625cc58ff","type":"link","url":"https://www.billviola.com?hidden=true","x":-400,"y":-320,"width":400,"height":400},
-		{"id":"49f74ba06ce5dbb8","x":120,"y":-150,"width":250,"height":60,"type":"text","text":"testing"}
+		{"id":"49f74ba06ce5dbb8","x":120,"y":-150,"width":250,"height":60,"type":"text","text":"testing"},
+		{"id":"68d5dc5ead4a7d7b","x":-520,"y":-380,"width":400,"height":400,"type":"file","file":"artists/sculpture/Hannah-Levy.md"}
 	],
-	"edges":[
-		{"id":"b759a77e58eeeb18","fromNode":"c75bde8625cc58ff","fromSide":"right","toNode":"49f74ba06ce5dbb8","toSide":"left"}
-	]
+	"edges":[]
 }

@@ -10,6 +10,9 @@ import 'reactflow/dist/style.css';
 
 import LinkNode from '../flow/linkNode.js';
 import TextNode from '../flow/textNode.js';
+import FileNode from '../flow/fileNode.js';
+
+import '../css/custom-Node.css'
 
 const ArtistMapPage = ({ nodes, edges }) => {
 
@@ -18,6 +21,7 @@ const ArtistMapPage = ({ nodes, edges }) => {
     const nodeTypes = {
         link: LinkNode,
         text: TextNode,
+        file:FileNode,
     };
   
   return (
