@@ -11,8 +11,7 @@ I am Leilei, and I am an tactile artist and filmmaker. This is my blog, reading 
 
 You can find the index on the side bar
 
-## something I think a lot about recently
+[My reading notes (to Notion Page)](https://leileixia.notion.site/9894276f85b544139940a94237d31b7b?v=ad681b862b034f96b026a93204b1d508&pvs=4) 
 
-[[Transhumanism]]
 
 [[Artists&Scholars]]
