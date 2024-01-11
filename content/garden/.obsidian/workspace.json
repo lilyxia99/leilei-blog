@@ -11,14 +11,11 @@
             "id": "358139341c13846c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Artist-Map.canvas",
-                "viewState": {
-                  "x": -155,
-                  "y": -210,
-                  "zoom": -0.09753711643229036
-                }
+                "file": "tech-note/Gatsby-blog-Log.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artist-Map.canvas",
+                "file": "tech-note/Gatsby-blog-Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artist-Map.canvas",
+                "file": "tech-note/Gatsby-blog-Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artist-Map.canvas"
+                "file": "tech-note/Gatsby-blog-Log.md"
               }
             }
           }
@@ -151,11 +148,14 @@
   },
   "active": "358139341c13846c",
   "lastOpenFiles": [
-    "hello.md",
-    "Artist-Map.canvas",
+    "reference-name/wanting-to-watch.md",
+    "reference-name/Artists&Scholars.md",
+    "artists/sculpture/Hannah-Levy.md",
     "tech-note/Gatsby-blog-Log.md",
-    "Untitled.canvas",
     "reading-notes/Transhumanism.md",
+    "Artist-Map.canvas",
+    "hello.md",
+    "Untitled.canvas",
     "Diary/Diary-list",
     "tech-note/React.md",
     "tech-note",
@@ -166,8 +166,6 @@
     "Diary/2024-01-10.md",
     "Diary/2024-01-09.md",
     "random-thoughts/about-writing-in-Chinese.md",
-    "reference-name/wanting-to-watch.md",
-    "reference-name/Artists&Scholars.md",
     "receipe/小高姐.md",
     "Transhumanism.md"
   ]

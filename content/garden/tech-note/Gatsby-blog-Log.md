@@ -19,3 +19,11 @@ Thursday, January 11, 2024 @ 11:39:42 AM
 todo:
 - [x]   创建一个可以显示其他 md 页面的custom node
 - [x]   看看如何把每个页面的网址确定下来，这样就可以显示那个md网页了
+
+真的成功搞出来了～～～好开心
+
+后来通过 connectionMode="loose"来解决不同方向上的连接问题
+
+以及custom node必须自己加上handle！不然是没有handle的！
+然后就是iframe居然能work太好啦哈哈哈
+
