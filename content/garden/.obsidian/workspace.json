@@ -100,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello.md",
+                "file": "Diary/🥗.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello.md",
+                "file": "Diary/🥗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello.md",
+                "file": "Diary/🥗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello.md"
+                "file": "Diary/🥗.md"
               }
             }
           }
@@ -240,9 +240,9 @@
   },
   "active": "9d01e82f5f8dd6f2",
   "lastOpenFiles": [
-    "My Garden.md",
-    "hello.md",
     "Diary/2024-01-12.md",
+    "hello.md",
+    "My Garden.md",
     "tech-note/Gatsby-blog-Log.md",
     "Diary/All-Dairies.md",
     "Diary/Dairy Index.md",
