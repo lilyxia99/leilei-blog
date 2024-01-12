@@ -5,10 +5,10 @@
   "gardenBaseUrl": "",
   "prHistory": [],
   "baseTheme": "dark",
-  "theme": "{\"name\":\"Dracula Gemini\",\"author\":\"Alex Olshansky\",\"repo\":\"clbn/dracula-gemini\",\"screenshot\":\"images/cover-thumbnail.png\",\"modes\":[\"dark\"],\"cssUrl\":\"https://raw.githubusercontent.com/clbn/dracula-gemini/HEAD/theme.css\"}",
+  "theme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
   "faviconPath": "",
   "noteSettingsIsInitialized": true,
-  "siteName": "Leilei's digital Garden",
+  "siteName": "Digital Garden",
   "mainLanguage": "en",
   "slugifyEnabled": true,
   "noteIconKey": "dg-note-icon",
@@ -30,13 +30,13 @@
   "defaultNoteSettings": {
     "dgHomeLink": true,
     "dgPassFrontmatter": false,
-    "dgShowBacklinks": true,
-    "dgShowLocalGraph": true,
-    "dgShowInlineTitle": true,
-    "dgShowFileTree": true,
-    "dgEnableSearch": true,
-    "dgShowToc": true,
-    "dgLinkPreview": true,
-    "dgShowTags": true
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": false,
+    "dgShowFileTree": false,
+    "dgEnableSearch": false,
+    "dgShowToc": false,
+    "dgLinkPreview": false,
+    "dgShowTags": false
   }
 }

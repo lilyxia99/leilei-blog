@@ -1,8 +1,7 @@
 [
-  "digitalgarden",
-  "obsidian-git",
   "obsidian-daily-notes-viewer",
   "media-extended",
   "templater-obsidian",
-  "obsidian-linter"
+  "obsidian-git",
+  "digitalgarden"
 ]

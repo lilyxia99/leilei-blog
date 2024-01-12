@@ -88,14 +88,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-01-12.md",
+                "file": "hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d01e82f5f8dd6f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -161,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-01-12.md",
+                "file": "hello.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-01-12.md",
+                "file": "hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-01-12.md"
+                "file": "hello.md"
               }
             }
           }
@@ -220,19 +232,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "digitalgarden:Digital Garden Publication Center": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-daily-notes-viewer:Open Viewer": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "dc81fe00ba4672eb",
+  "active": "9d01e82f5f8dd6f2",
   "lastOpenFiles": [
-    "tech-note/Gatsby-blog-Log.md",
+    "My Garden.md",
+    "hello.md",
     "Diary/2024-01-12.md",
+    "tech-note/Gatsby-blog-Log.md",
     "Diary/All-Dairies.md",
     "Diary/Dairy Index.md",
-    "Untitled.md",
     "test.md",
     "No.md",
     "Diary/Dairy Template.md",
@@ -248,10 +261,8 @@
     "random-thoughts/about-writing-in-Chinese.md",
     "Artist-Map.canvas",
     "random-thoughts/Talking.md",
-    "hello.md",
     "tech-note/React.md",
     "2024-01-11.md",
-    "My Garden.md",
     "watch-list/Animation/Chilly-and-Milly.md",
     "watch-list/Animation",
     "watch-list/Animation.md",
