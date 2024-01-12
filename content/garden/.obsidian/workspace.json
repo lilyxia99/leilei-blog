@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2024-01-12.md",
+                "file": "Diary/Dairy Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/2024-01-12.md",
+                "file": "Diary/Dairy Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/2024-01-12.md",
+                "file": "Diary/Dairy Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2024-01-12.md"
+                "file": "Diary/Dairy Index.md"
               }
             }
           }
@@ -167,19 +167,20 @@
   },
   "active": "93903e8f49dd9ead",
   "lastOpenFiles": [
-    "Diary/2024-01-11.md",
+    "Diary/2024-01-09.md",
+    "Diary/Dairy Index.md",
     "Diary/2024-01-12.md",
-    "test.md",
+    "random-thoughts/about-writing-in-Chinese.md",
+    "random-thoughts/Talking.md",
     "No.md",
+    "hello.md",
+    "test.md",
+    "Diary/2024-01-11.md",
     "tech-note/Gatsby-blog-Log.md",
     "tech-note/React.md",
     "Diary/2024-01-10.md",
-    "Diary/2024-01-09.md",
-    "random-thoughts/Talking.md",
-    "random-thoughts/about-writing-in-Chinese.md",
     "2024-01-11.md",
     "reference-name/Artists&Scholars.md",
-    "hello.md",
     "Artist-Map.canvas",
     "My Garden.md",
     "watch-list/Animation/Chilly-and-Milly.md",
