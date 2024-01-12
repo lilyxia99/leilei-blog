@@ -4,8 +4,18 @@ tags:
   - tech-notes
 dg-publish: true
 ---
+## 研究pop up的部分可不可以预览久一点
 
-# 搭建gatsby 博客
+2024-01-12
+
+发现了我的模板到底是用的什么来scroll的，原来是用的[Tippy](https://kabbouchi.github.io/tippyjs-v4-docs/) 之后研究一下，或许可以让我的tippy能够scroll！看样子是在[这个代码里定义的](https://github.com/phartenfeller/gatsby-philipps-foam-theme/blob/93a3fc3fcd93406fc9f6156640921d2767988575/gatsby-philipps-foam-theme/src/components/mdx-components/FoamLink.jsx#L2) 回头可能我只要[shadow](https://www.gatsbyjs.com/docs/how-to/plugins-and-themes/shadowing/)一下这个代码就可以了
+
+通过[chrome](https://medium.com/@AbbasPlusPlus/how-to-check-hover-and-popover-styles-in-chrome-devtools-84c628580401)可以inspect悬浮的内容， 我也得意搞清楚这个tippy里有什么。感觉里面是有全部的内容的，只是我需要让这个tippy：
+
+1. 悬浮久一点
+2. overflow hidden
+
+## 创建艺术家地图
 
 Thursday, January 11, 2024 @ 11:39:42 AM
 
