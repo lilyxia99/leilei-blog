@@ -5,6 +5,7 @@
     "tags": "tags",
     "- [ ]": "checkbox",
     "title": "text",
-    "dg-publish": "checkbox"
+    "dg-publish": "checkbox",
+    "date": "date"
   }
 }

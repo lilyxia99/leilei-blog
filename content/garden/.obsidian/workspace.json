@@ -52,14 +52,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Dairy Index.md",
+                "file": "reference-name/Artists&Scholars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21603736f7adeb1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024-01-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "444159dc1efcf33f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2024-01-12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc81fe00ba4672eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/All-Dairies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -125,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Dairy Index.md",
+                "file": "Diary/All-Dairies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Dairy Index.md",
+                "file": "Diary/All-Dairies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Dairy Index.md"
+                "file": "Diary/All-Dairies.md"
               }
             }
           }
@@ -185,18 +221,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-daily-notes-viewer:Open Viewer": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ba798761235384c5",
+  "active": "dc81fe00ba4672eb",
   "lastOpenFiles": [
-    "random-thoughts/about-writing-in-Chinese.md",
-    "Diary/2024-01-10.md",
-    "Diary/2024-01-09.md",
-    "Diary/2024-01-11.md",
-    "Diary/2024-01-12.md",
     "Diary/Dairy Index.md",
     "Diary/Dairy Template.md",
+    "Diary/2024-01-10.md",
+    "Diary/2024-01-09.md",
+    "artists/sculpture/Hannah-Levy.md",
+    "artists/music/Alice Coltrane.md",
+    "Diary/2024-01-12.md",
+    "Diary/2024-01-11.md",
+    "Diary/All-Dairies.md",
+    "Untitled.md",
+    "note-templates/New Note Template.md",
+    "Untitled 1.md",
+    "note-templates",
+    "reference-name/Artists&Scholars.md",
+    "random-thoughts/about-writing-in-Chinese.md",
     "Artist-Map.canvas",
     "random-thoughts/Talking.md",
     "No.md",
@@ -205,7 +251,6 @@
     "tech-note/Gatsby-blog-Log.md",
     "tech-note/React.md",
     "2024-01-11.md",
-    "reference-name/Artists&Scholars.md",
     "My Garden.md",
     "watch-list/Animation/Chilly-and-Milly.md",
     "watch-list/Animation",
@@ -215,13 +260,9 @@
     "reading-notes/Transhumanism.md",
     "reading-notes",
     "random-thoughts",
-    "artists/sculpture/Hannah-Levy.md",
     "reference-name/wanting-to-watch.md",
     "Untitled.canvas",
     "artist-map.canvas",
-    "Artist Map.canvas",
-    "Diary/🥗.md",
-    "receipe/小高姐.md",
-    "Transhumanism.md"
+    "Artist Map.canvas"
   ]
 }

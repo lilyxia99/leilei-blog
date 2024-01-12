@@ -16,5 +16,33 @@
       ],
       "key": "P"
     }
+  ],
+  "templater-obsidian:create-new-note-from-template": [],
+  "templater-obsidian:note-templates/New Note Template.md": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
