@@ -1,7 +1,8 @@
 ---
-title: "用母语写作"
+title: 用母语写作
 tags:
-    - random-thoughts
+  - random-thoughts
+dg-publish: true
 ---
 
 # 用母语写作

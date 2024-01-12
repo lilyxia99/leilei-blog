@@ -1,6 +1,7 @@
 ---
-title: "Names"
-catagories: "reference"
+title: Names
+catagories: reference
+dg-publish: true
 ---
 
 # Artists/Scholars References
@@ -20,4 +21,3 @@ catagories: "reference"
 ## Transhumanism
 
 + [NICK BOSTROM](https://nickbostrom.com/ethics/values)
-

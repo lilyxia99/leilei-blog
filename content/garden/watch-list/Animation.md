@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # Animation
 
 ## Stop motion + 3D

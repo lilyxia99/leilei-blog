@@ -1,5 +1,5 @@
 import React, { memo } from 'react';
-import { Handle, Position } from 'reactflow';
+import { Handle, Position, NodeResizer } from 'reactflow';
 import 'reactflow/dist/style.css';
 import { Link } from "gatsby"
 
@@ -18,7 +18,7 @@ const convertToLink = (filePath) => {
     return finalLink;
   };
 
-function FileNode({data,isConnectable}){
+function FileNode({data,isConnectable, selected}){
 
     const fileLink = convertToLink(data.file)
     //console.log(fileLink)
@@ -35,7 +35,7 @@ function FileNode({data,isConnectable}){
     return(
         <>
         <div className="file_node node" style={nodeStyle}>
-
+        <NodeResizer color="#ff0071" isVisible={selected} minWidth={100} minHeight={30} />
         <Handle type="target" position={Position.Top} id="top" isConnectable={isConnectable} />
         <Handle type="target" position={Position.Left} id="left" isConnectable={isConnectable} />
         <Handle type="source" position={Position.Bottom} id="bottom" isConnectable={isConnectable} />

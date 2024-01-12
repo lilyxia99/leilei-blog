@@ -1,10 +1,11 @@
 ---
-title: "Hannah Levy"
+title: Hannah Levy
 tags:
-    - transhumanism
-    - sci-fi
-    - posthuman
-slug: "/artists/Hannah-Levy/"
+  - transhumanism
+  - sci-fi
+  - posthuman
+slug: /artists/Hannah-Levy/
+dg-publish: true
 ---
 
 # Hannah Levy

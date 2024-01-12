@@ -1,10 +1,11 @@
 ---
-title: "Chilly and Milly"
+title: Chilly and Milly
 tags:
-    - animation
-    - stop-motion
-    - 3D
-    - still-frame
+  - animation
+  - stop-motion
+  - 3D
+  - still-frame
+dg-publish: true
 ---
 
 # Chilly and Milly

@@ -1,7 +1,8 @@
 ---
-title: "Transhumanism"
+title: Transhumanism
 tags:
-    - reading-notes
+  - reading-notes
+dg-publish: true
 ---
 
 Hall, Melinda Gann. The Bioethics of Enhancement: Transhumanism, Disability, and Biopolitics. Lexington Books, 2017.

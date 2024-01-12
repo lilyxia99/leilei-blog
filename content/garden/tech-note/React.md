@@ -1,3 +1,7 @@
+---
+dg-publish: true
+---
+
 # React 笔记
 
 ## map

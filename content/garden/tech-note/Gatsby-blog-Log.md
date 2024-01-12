@@ -1,7 +1,8 @@
 ---
-title: "搭建gatsby 博客"
-tags: 
-    - tech-notes
+title: 搭建gatsby 博客
+tags:
+  - tech-notes
+dg-publish: true
 ---
 
 # 搭建gatsby 博客
