@@ -22,5 +22,5 @@ dg-publish: true
 
 ## Gatsby
 
-### Component VS Template
-不能直接在template写太复杂的东西，例如react flow这样的，要在component里写然后直接在template里提及。
+参考[[Gatsby-blog-Log]] 太难啦
+
