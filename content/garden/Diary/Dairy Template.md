@@ -1,8 +1,5 @@
 ---
-title: 2024-01-10
 tags:
   - diary
 dg-publish: true
 ---
-
-# 2024-01-10
