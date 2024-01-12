@@ -88,7 +88,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/All-Dairies.md",
+                "file": "Diary/Dairy Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/All-Dairies.md",
+                "file": "Diary/Dairy Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/All-Dairies.md",
+                "file": "Diary/Dairy Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/All-Dairies.md"
+                "file": "Diary/Dairy Index.md"
               }
             }
           }
@@ -228,6 +228,7 @@
   },
   "active": "dc81fe00ba4672eb",
   "lastOpenFiles": [
+    "Diary/All-Dairies.md",
     "Diary/Dairy Index.md",
     "Diary/Dairy Template.md",
     "Diary/2024-01-10.md",
@@ -236,7 +237,6 @@
     "artists/music/Alice Coltrane.md",
     "Diary/2024-01-12.md",
     "Diary/2024-01-11.md",
-    "Diary/All-Dairies.md",
     "Untitled.md",
     "note-templates/New Note Template.md",
     "Untitled 1.md",
